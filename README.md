@@ -3,3 +3,4 @@ github.com - Repositorio
 Perplexity.ai - Exploracion de contenido
 Gamma.app - Presentaciones
 Netlify.com - Publicaciones
+Claude.ia - inteligencia en Lenguaje 
