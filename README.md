@@ -1,2 +1,5 @@
-# proyect-1-TI
-https://gamma.app/docs/Zona-Franca-en-Misiones-rkaecrdj2ese3t5
+usuario de google- email de google
+github.com - Repositorio
+Perplexity.ai - Exploracion de contenido
+Gamma.app - Presentaciones
+Netlify.com - Publicaciones
